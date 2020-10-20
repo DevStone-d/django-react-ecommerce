@@ -3,3 +3,5 @@ djangorestframework
 markdown
 django-filter
 django-hosts
+django-rest-auth
+django-allauth
